@@ -1,0 +1,26 @@
+{
+  "id": "2355ef94-e73a-49bb-9384-c128c43ce4d1",
+  "name": "ALProject1",
+  "publisher": "Columbus",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Customer Loyalty Program by Columbus",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./Resources/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject1.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
